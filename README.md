@@ -16,6 +16,13 @@
     ul { list-style:disc; padding-left:20px; }
     .price { background:#f4f4f4; padding:20px; border-radius:8px; }
     footer { background:#eee; text-align:center; padding:20px; font-size:0.9em; }
+    <script src="https://sdk.form.run/js/v2/embed.js"></script>
+<div
+  class="formrun-embed"
+  data-formrun-form="@kouta-softbank-OkkaXFBkoU2EotrYPBrM"
+  data-formrun-redirect="true"
+>
+</div>
     /* LINEボタン */
     .line-button {
       display:inline-block;
